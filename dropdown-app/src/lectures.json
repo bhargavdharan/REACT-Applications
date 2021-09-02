@@ -1,0 +1,10 @@
+{
+    "Lecturers":[
+        {"id":1,"lName":"Subhash"},
+        {"id":2,"lName":"Surya"},
+        {"id":3,"lName":"Suresh"},
+        {"id":4,"lName":"Akash"},
+        {"id":5,"lName":"Arjun"},
+        {"id":6,"lName":"Satyam"}
+    ]
+}

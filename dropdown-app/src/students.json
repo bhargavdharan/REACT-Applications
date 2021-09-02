@@ -1,0 +1,10 @@
+{
+    "Students":[
+        {"id":1,"sName":"Shivam"},
+        {"id":2,"sName":"Arya"},
+        {"id":3,"sName":"Aravind"},
+        {"id":4,"sName":"Ramya"},
+        {"id":5,"sName":"Dev"},
+        {"id":6,"sName":"john"}
+    ]
+}
