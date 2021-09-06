@@ -191,7 +191,7 @@ function App() {
 
       {books.map((book,index) => {
         // const { img, title, author } = book;
-        return <Book key={index} book={book}></Book>;
+        return <Book key={book.id} {...book}></Book>;
       })}
 
     </section>
@@ -200,7 +200,7 @@ function App() {
 
 const Book = (props) => {
 
-  const { img, title, author } = props.book;
+  const { img, title, author } = props;
   return (
     <article className='book'>
       <img src={img} />
